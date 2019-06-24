@@ -4,7 +4,7 @@ from pynput.keyboard import Key, Listener
 
 word_counts = 0
 keys = []
-
+#comment 
 def on_press(key):
 
     global word_counts, keys
